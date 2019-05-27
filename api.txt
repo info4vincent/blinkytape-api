@@ -1,0 +1,3 @@
+<a href="http://192.168.2.6:8010/strip/halloween_pattern.png">http://192.168.2.6:8010/strip/halloween_pattern.png</a>
+<a href="http://192.168.2.6:8010/strip/halloween_regenboog.png">http://192.168.2.6:8010/strip/halloween_regenboog.png</a>
+<a href="http://192.168.2.6:8010/strip/halloween_regenboog2.png">http://192.168.2.6:8010/strip/halloween_regenboog2.png</a>
